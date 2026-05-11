@@ -349,4 +349,3 @@ function EditModal({ type, item, onSave, onClose }) {
     </motion.div>
   );
 }
-
